@@ -5,8 +5,6 @@
     margin-left: 0px;
 }
 body{
-    margin-left: 10%;
-    margin-right: 10%;
     border-style:ridge; 
     border-radius: 10px;
     padding: 10px;
@@ -123,7 +121,6 @@ main section div h3{
     font-family: arial;
     color: rgb(6, 6, 139);
     flex-wrap: wrap;
-   
 }
 aside table{
     border-style: ridge;
